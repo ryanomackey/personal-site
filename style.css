@@ -1,0 +1,41 @@
+body {
+  padding-top:70px;
+  padding-bottom: 70px;
+}
+
+.project {
+  height:250px;
+  background-size: cover;
+}
+
+.project h1 {
+  margin:0;
+  padding-top:11%;
+  color:white;
+}
+
+.project:hover {
+  box-shadow: 0 0 25px black;
+}
+
+#brand {
+  font-family:'Amatica SC',cursive;
+  font-size:2em;
+  padding-left: 0;
+}
+
+#pokedex {
+  background-image: url('images/pokedex.png');
+}
+
+#habitat {
+  background-image: url('images/habitat.png');
+}
+
+#q3 {
+  background-color:gray;
+}
+
+#q4 {
+  background-color:gray;
+}
