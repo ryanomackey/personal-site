@@ -51,9 +51,9 @@ body {
   and (max-device-width: 736px)
   and (-webkit-min-device-pixel-ratio: 3) {
   p {
-    font-size:1.5em;
+    font-size:2em;
   }
   li {
-    font-size:1.5em;
+    font-size:2em;
   }
 }
